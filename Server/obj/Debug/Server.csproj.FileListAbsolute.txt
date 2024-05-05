@@ -1,0 +1,10 @@
+D:\Code\C_Sharp\MultipleClient\Server\bin\Debug\Server.exe.config
+D:\Code\C_Sharp\MultipleClient\Server\bin\Debug\Server.exe
+D:\Code\C_Sharp\MultipleClient\Server\bin\Debug\Server.pdb
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.Server.resources
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.exe
+D:\Code\C_Sharp\MultipleClient\Server\obj\Debug\Server.pdb

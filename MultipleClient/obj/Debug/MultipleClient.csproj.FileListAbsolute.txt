@@ -1,0 +1,10 @@
+D:\Code\C_Sharp\MultipleClient\MultipleClient\bin\Debug\MultipleClient.exe.config
+D:\Code\C_Sharp\MultipleClient\MultipleClient\bin\Debug\MultipleClient.exe
+D:\Code\C_Sharp\MultipleClient\MultipleClient\bin\Debug\MultipleClient.pdb
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.csproj.AssemblyReference.cache
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.Client.resources
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.Properties.Resources.resources
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.csproj.GenerateResource.cache
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.exe
+D:\Code\C_Sharp\MultipleClient\MultipleClient\obj\Debug\MultipleClient.pdb
