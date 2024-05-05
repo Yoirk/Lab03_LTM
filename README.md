@@ -1,2 +1,3 @@
 # Lab03_LTM
-lab 3 môn LTM
+Lab 3 môn LTM, bao gồm:
+  - Câu 4: MultipleClient
